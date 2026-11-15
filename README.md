@@ -38,7 +38,7 @@ This project demonstrates the use of:
 
 ## Database Diagram
 
-![ER Diagram]([images/er-diagram.png](https://github.com/zeynepmiray5/Hospital-Management-Database/blob/main/er-diagram.png)) 
+![ER Diagram](er-diagram.png)
 
 ## Business Rules and Validations
 
